@@ -23,14 +23,5 @@ Let's create a Zap that sends an email notification whenever someone submits a c
 4. Customize the email subject and body with information from the form.
 5. Turn on your Zap and watch the magic happen!
 
-**4. Remember:**
-
-- Choose the right tool for your needs and complexity of your workflows.
-- Start with simple Zaps or workflows and gradually build on them.
-- Test your integrations thoroughly to ensure they function smoothly.
-
-**Bonus Tip:** Explore Webflow's built-in Zapier integration for a seamless and user-friendly setup.
-
-
 # Need Help?
 Want to build a custom [webflow page](https://epyc.in/)?
